@@ -1,0 +1,74 @@
+{
+  "19.0": {
+    "l10n_do_ai_invoice_lde": {
+      "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ai_invoice_lde",
+      "version": "19.0.5.0.2"
+    },
+    "l10n_do_ai_payments_lde": {
+      "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ai_payments_lde",
+      "version": "19.0.2.1.2"
+    },
+    "l10n_do_ai_quotes_lde": {
+      "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ai_quotes_lde",
+      "version": "19.0.1.2.2"
+    },
+    "l10n_do_books_auditor_lde": {
+      "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_books_auditor_lde",
+      "version": "19.0.1.2.3"
+    },
+    "l10n_do_ncf_lde": {
+      "fecha": "2026-10-22",
+      "titulo": "Facturas en dólares u otra moneda: montos en RD$ y bloque OtraMoneda",
+      "urgente": false,
+      "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ncf_lde",
+      "version": "19.0.5.11.0"
+    },
+    "l10n_do_pos_lde": {
+      "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_pos_lde",
+      "version": "19.0.1.1.6"
+    },
+    "l10n_do_reports_lde": {
+      "fecha": "2026-10-22",
+      "titulo": "Ya no requiere el módulo de e-CF/NCF",
+      "urgente": false,
+      "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_reports_lde",
+      "version": "19.0.3.9.0"
+    }
+  },
+  "20.0": {
+    "l10n_do_ai_invoice_lde": {
+      "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ai_invoice_lde",
+      "version": "20.0.5.0.2"
+    },
+    "l10n_do_ai_payments_lde": {
+      "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ai_payments_lde",
+      "version": "20.0.2.1.2"
+    },
+    "l10n_do_ai_quotes_lde": {
+      "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ai_quotes_lde",
+      "version": "20.0.1.2.2"
+    },
+    "l10n_do_books_auditor_lde": {
+      "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_books_auditor_lde",
+      "version": "20.0.1.2.4"
+    },
+    "l10n_do_ncf_lde": {
+      "fecha": "2026-10-22",
+      "titulo": "Facturas en dólares u otra moneda: montos en RD$ y bloque OtraMoneda",
+      "urgente": false,
+      "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ncf_lde",
+      "version": "20.0.5.11.0"
+    },
+    "l10n_do_pos_lde": {
+      "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_pos_lde",
+      "version": "20.0.1.1.6"
+    },
+    "l10n_do_reports_lde": {
+      "fecha": "2026-10-22",
+      "titulo": "Ya no requiere el módulo de e-CF/NCF",
+      "urgente": false,
+      "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_reports_lde",
+      "version": "20.0.3.9.0"
+    }
+  }
+}
