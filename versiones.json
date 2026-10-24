@@ -24,22 +24,22 @@
       "version": "19.0.1.0.1"
     },
     "l10n_do_ncf_lde": {
-      "fecha": "2026-10-23",
-      "titulo": "Aviso de nuevas versiones dentro de Odoo",
+      "fecha": "2026-10-24",
+      "titulo": "Bases con varias compañías y países, y correcciones fiscales",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ncf_lde",
-      "version": "19.0.5.12.0"
+      "version": "19.0.5.13.0"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_pos_lde",
       "version": "19.0.1.1.6"
     },
     "l10n_do_reports_lde": {
-      "fecha": "2026-10-23",
-      "titulo": "Aviso de nuevas versiones dentro de Odoo",
+      "fecha": "2026-10-24",
+      "titulo": "Bases con varias compañías y países, y correcciones fiscales",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_reports_lde",
-      "version": "19.0.3.10.0"
+      "version": "19.0.3.10.1"
     }
   },
   "20.0": {
@@ -67,22 +67,22 @@
       "version": "20.0.1.0.1"
     },
     "l10n_do_ncf_lde": {
-      "fecha": "2026-10-23",
-      "titulo": "Aviso de nuevas versiones dentro de Odoo",
+      "fecha": "2026-10-24",
+      "titulo": "Bases con varias compañías y países, y correcciones fiscales",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ncf_lde",
-      "version": "20.0.5.12.0"
+      "version": "20.0.5.13.0"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_pos_lde",
       "version": "20.0.1.1.6"
     },
     "l10n_do_reports_lde": {
-      "fecha": "2026-10-23",
-      "titulo": "Aviso de nuevas versiones dentro de Odoo",
+      "fecha": "2026-10-24",
+      "titulo": "Bases con varias compañías y países, y correcciones fiscales",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_reports_lde",
-      "version": "20.0.3.10.0"
+      "version": "20.0.3.10.1"
     }
   }
 }
