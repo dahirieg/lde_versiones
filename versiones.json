@@ -16,6 +16,13 @@
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_books_auditor_lde",
       "version": "19.0.1.2.3"
     },
+    "l10n_do_currency_rate_lde": {
+      "fecha": "2026-10-23",
+      "titulo": "Nuevo módulo: USD y EUR desde Banreservas, el Banco Central u otro banco",
+      "urgente": false,
+      "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_currency_rate_lde",
+      "version": "19.0.1.0.0"
+    },
     "l10n_do_ncf_lde": {
       "fecha": "2026-10-23",
       "titulo": "Aviso de nuevas versiones dentro de Odoo",
@@ -51,6 +58,13 @@
     "l10n_do_books_auditor_lde": {
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_books_auditor_lde",
       "version": "20.0.1.2.4"
+    },
+    "l10n_do_currency_rate_lde": {
+      "fecha": "2026-10-23",
+      "titulo": "Nuevo módulo: USD y EUR desde Banreservas, el Banco Central u otro banco",
+      "urgente": false,
+      "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_currency_rate_lde",
+      "version": "20.0.1.0.0"
     },
     "l10n_do_ncf_lde": {
       "fecha": "2026-10-23",
