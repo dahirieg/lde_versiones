@@ -1,8 +1,11 @@
 {
   "19.0": {
     "l10n_do_ai_invoice_lde": {
+      "fecha": "2026-10-24",
+      "titulo": "Sucursales con el mismo RNC",
+      "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ai_invoice_lde",
-      "version": "19.0.5.0.2"
+      "version": "19.0.5.0.3"
     },
     "l10n_do_ai_payments_lde": {
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ai_payments_lde",
@@ -25,10 +28,10 @@
     },
     "l10n_do_ncf_lde": {
       "fecha": "2026-10-24",
-      "titulo": "Bases con varias compañías y países, y correcciones fiscales",
+      "titulo": "Sucursales con el mismo RNC",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ncf_lde",
-      "version": "19.0.5.13.0"
+      "version": "19.0.5.14.0"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_pos_lde",
@@ -36,16 +39,19 @@
     },
     "l10n_do_reports_lde": {
       "fecha": "2026-10-24",
-      "titulo": "Bases con varias compañías y países, y correcciones fiscales",
+      "titulo": "Sucursales con el mismo RNC",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_reports_lde",
-      "version": "19.0.3.10.1"
+      "version": "19.0.3.11.0"
     }
   },
   "20.0": {
     "l10n_do_ai_invoice_lde": {
+      "fecha": "2026-10-24",
+      "titulo": "Sucursales con el mismo RNC",
+      "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ai_invoice_lde",
-      "version": "20.0.5.0.2"
+      "version": "20.0.5.0.3"
     },
     "l10n_do_ai_payments_lde": {
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ai_payments_lde",
@@ -68,10 +74,10 @@
     },
     "l10n_do_ncf_lde": {
       "fecha": "2026-10-24",
-      "titulo": "Bases con varias compañías y países, y correcciones fiscales",
+      "titulo": "Sucursales con el mismo RNC",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ncf_lde",
-      "version": "20.0.5.13.0"
+      "version": "20.0.5.14.0"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_pos_lde",
@@ -79,10 +85,10 @@
     },
     "l10n_do_reports_lde": {
       "fecha": "2026-10-24",
-      "titulo": "Bases con varias compañías y países, y correcciones fiscales",
+      "titulo": "Sucursales con el mismo RNC",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_reports_lde",
-      "version": "20.0.3.10.1"
+      "version": "20.0.3.11.0"
     }
   }
 }
