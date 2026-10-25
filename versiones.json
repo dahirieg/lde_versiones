@@ -74,10 +74,10 @@
     },
     "l10n_do_ncf_lde": {
       "fecha": "2026-10-24",
-      "titulo": "Sucursales con el mismo RNC",
+      "titulo": "Compañías de varios países en la misma base",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ncf_lde",
-      "version": "20.0.5.14.0"
+      "version": "20.0.5.15.0"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_pos_lde",
