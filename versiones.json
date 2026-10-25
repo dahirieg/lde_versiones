@@ -43,6 +43,13 @@
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_reports_lde",
       "version": "19.0.3.11.0"
+    },
+    "l10n_do_rnc_sync_lde": {
+      "fecha": "2026-10-25",
+      "titulo": "app nueva `l10n_do_rnc_sync_lde`",
+      "urgente": false,
+      "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_rnc_sync_lde",
+      "version": "19.0.1.0.0"
     }
   },
   "20.0": {
@@ -89,6 +96,13 @@
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_reports_lde",
       "version": "20.0.3.11.0"
+    },
+    "l10n_do_rnc_sync_lde": {
+      "fecha": "2026-10-25",
+      "titulo": "app nueva `l10n_do_rnc_sync_lde`",
+      "urgente": false,
+      "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_rnc_sync_lde",
+      "version": "20.0.1.0.0"
     }
   }
 }
