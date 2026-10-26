@@ -27,11 +27,11 @@
       "version": "19.0.1.0.1"
     },
     "l10n_do_ncf_lde": {
-      "fecha": "2026-10-25",
-      "titulo": "Facturas con líneas negativas (descuentos generales)",
+      "fecha": "2026-10-26",
+      "titulo": "Receptor seguro, contingencia DGII y precisión en moneda extranjera",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ncf_lde",
-      "version": "19.0.5.16.0"
+      "version": "19.0.5.17.0"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_pos_lde",
