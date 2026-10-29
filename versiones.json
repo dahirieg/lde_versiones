@@ -20,11 +20,11 @@
       "version": "19.0.1.2.3"
     },
     "l10n_do_currency_rate_lde": {
-      "fecha": "2026-10-25",
-      "titulo": "`l10n_do_rnc_sync_lde`",
+      "fecha": "2026-10-29",
+      "titulo": "Banreservas vuelve a responder",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_currency_rate_lde",
-      "version": "19.0.1.0.1"
+      "version": "19.0.1.0.2"
     },
     "l10n_do_ncf_lde": {
       "fecha": "2026-10-28",
@@ -38,15 +38,15 @@
       "version": "19.0.1.1.7"
     },
     "l10n_do_reports_lde": {
-      "fecha": "2026-10-24",
-      "titulo": "Sucursales con el mismo RNC",
+      "fecha": "2026-10-29",
+      "titulo": "El número interno de la factura ya no se toma como NCF",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_reports_lde",
-      "version": "19.0.3.11.0"
+      "version": "19.0.3.11.1"
     },
     "l10n_do_rnc_sync_lde": {
-      "fecha": "2026-08-13",
-      "titulo": "Propina Legal 19.0.2.3.0 / 19.0.1.0.3 / 19.0.1.0.2",
+      "fecha": "2026-10-29",
+      "titulo": "Banreservas vuelve a responder",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_rnc_sync_lde",
       "version": "19.0.1.0.2"
@@ -73,11 +73,11 @@
       "version": "20.0.1.2.4"
     },
     "l10n_do_currency_rate_lde": {
-      "fecha": "2026-10-25",
-      "titulo": "`l10n_do_rnc_sync_lde`",
+      "fecha": "2026-10-29",
+      "titulo": "Banreservas vuelve a responder",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_currency_rate_lde",
-      "version": "20.0.1.0.1"
+      "version": "20.0.1.0.2"
     },
     "l10n_do_ncf_lde": {
       "fecha": "2026-10-28",
@@ -91,13 +91,16 @@
       "version": "20.0.1.1.7"
     },
     "l10n_do_reports_lde": {
-      "fecha": "2026-10-24",
-      "titulo": "Sucursales con el mismo RNC",
+      "fecha": "2026-10-29",
+      "titulo": "El número interno de la factura ya no se toma como NCF",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_reports_lde",
-      "version": "20.0.3.11.0"
+      "version": "20.0.3.11.1"
     },
     "l10n_do_rnc_sync_lde": {
+      "fecha": "2026-10-29",
+      "titulo": "Banreservas vuelve a responder",
+      "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_rnc_sync_lde",
       "version": "20.0.1.0.2"
     }
