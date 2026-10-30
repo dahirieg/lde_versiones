@@ -27,11 +27,11 @@
       "version": "19.0.1.0.2"
     },
     "l10n_do_ncf_lde": {
-      "fecha": "2026-10-28",
-      "titulo": "Comprobante de Compras con proveedor identificado, simulación y representación impresa",
+      "fecha": "2026-10-30",
+      "titulo": "QR de la representación impresa sin RNC del comprador",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ncf_lde",
-      "version": "19.0.5.17.3"
+      "version": "19.0.5.17.4"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_pos_lde",
@@ -80,11 +80,11 @@
       "version": "20.0.1.0.2"
     },
     "l10n_do_ncf_lde": {
-      "fecha": "2026-10-28",
-      "titulo": "Comprobante de Compras con proveedor identificado, simulación y representación impresa",
+      "fecha": "2026-10-30",
+      "titulo": "QR de la representación impresa sin RNC del comprador",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ncf_lde",
-      "version": "20.0.5.17.3"
+      "version": "20.0.5.17.4"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_pos_lde",
