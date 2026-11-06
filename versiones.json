@@ -98,11 +98,11 @@
       "version": "20.0.3.11.1"
     },
     "l10n_do_rnc_sync_lde": {
-      "fecha": "2026-10-29",
-      "titulo": "Banreservas vuelve a responder",
+      "fecha": "2026-11-06",
+      "titulo": "Autocompletado de contactos desde el registro DGII",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_rnc_sync_lde",
-      "version": "20.0.1.0.2"
+      "version": "20.0.1.1.0"
     }
   }
 }
