@@ -80,11 +80,11 @@
       "version": "20.0.1.0.2"
     },
     "l10n_do_ncf_lde": {
-      "fecha": "2026-11-01",
-      "titulo": "Facturas de proveedor con e-CF del proveedor",
+      "fecha": "2026-11-05",
+      "titulo": "Receptor e-CF verificado con la DGII, aviso de secuencias y tipo por diario",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_ncf_lde",
-      "version": "20.0.5.17.5"
+      "version": "20.0.5.18.0"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_pos_lde",
