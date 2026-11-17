@@ -27,11 +27,11 @@
       "version": "19.0.1.0.2"
     },
     "l10n_do_ncf_lde": {
-      "fecha": "2026-11-07",
-      "titulo": "CA de AVANSI y OGTIC incluidas, factura impresa más legible",
+      "fecha": "2026-11-16",
+      "titulo": "tipo de comprobante según el cliente",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ncf_lde",
-      "version": "19.0.5.18.3"
+      "version": "19.0.5.19.0"
     },
     "l10n_do_pos_lde": {
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_pos_lde",
