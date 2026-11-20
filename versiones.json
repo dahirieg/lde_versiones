@@ -27,15 +27,18 @@
       "version": "19.0.1.0.2"
     },
     "l10n_do_ncf_lde": {
-      "fecha": "2026-11-16",
-      "titulo": "tipo de comprobante según el cliente",
+      "fecha": "2026-11-18",
+      "titulo": "seriales por línea en la factura impresa",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_ncf_lde",
-      "version": "19.0.5.19.0"
+      "version": "19.0.5.20.0"
     },
     "l10n_do_pos_lde": {
+      "fecha": "2026-11-19",
+      "titulo": "el POS propone el tipo de comprobante del cliente",
+      "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_pos_lde",
-      "version": "19.0.1.1.7"
+      "version": "19.0.1.2.0"
     },
     "l10n_do_reports_lde": {
       "fecha": "2026-10-29",
@@ -87,8 +90,11 @@
       "version": "20.0.5.18.3"
     },
     "l10n_do_pos_lde": {
+      "fecha": "2026-11-19",
+      "titulo": "el POS propone el tipo de comprobante del cliente",
+      "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_pos_lde",
-      "version": "20.0.1.1.7"
+      "version": "20.0.1.2.0"
     },
     "l10n_do_reports_lde": {
       "fecha": "2026-10-29",
