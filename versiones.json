@@ -34,11 +34,11 @@
       "version": "19.0.5.20.0"
     },
     "l10n_do_pos_lde": {
-      "fecha": "2026-11-19",
-      "titulo": "el POS propone el tipo de comprobante del cliente",
+      "fecha": "2026-11-21",
+      "titulo": "ticket: datos del emisor en la cabecera y sin QR de autofactura",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/19.0/l10n_do_pos_lde",
-      "version": "19.0.1.2.0"
+      "version": "19.0.1.2.1"
     },
     "l10n_do_reports_lde": {
       "fecha": "2026-10-29",
@@ -90,11 +90,11 @@
       "version": "20.0.5.20.0"
     },
     "l10n_do_pos_lde": {
-      "fecha": "2026-11-19",
-      "titulo": "el POS propone el tipo de comprobante del cliente",
+      "fecha": "2026-11-21",
+      "titulo": "ticket: datos del emisor en la cabecera y sin QR de autofactura",
       "urgente": false,
       "url": "https://apps.odoo.com/apps/modules/20.0/l10n_do_pos_lde",
-      "version": "20.0.1.2.0"
+      "version": "20.0.1.2.1"
     },
     "l10n_do_reports_lde": {
       "fecha": "2026-10-29",
